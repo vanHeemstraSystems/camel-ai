@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+camel-ai
+# Camel AI
 
 > Slugline
 
