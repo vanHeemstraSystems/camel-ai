@@ -1,5 +1,5 @@
-Welcome to Your Project Documentation
-======================================
+Welcome to Camel AI Documentation
+===================================
 
 .. toctree::
    :maxdepth: 2
